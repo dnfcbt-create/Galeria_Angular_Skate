@@ -1,0 +1,1 @@
+# Galeria_Angular_Skate
